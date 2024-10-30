@@ -1,0 +1,1100 @@
+{
+  "m_iY_YxO7s4kqyRklrycvzbWZCWXldZGzFax9ZLcw14VXYwkaE_K4tpFAlIm1J8gt4OSL5ZzEJ_HcIcX1taWi1Cg": {
+    "mid": "m_iY_YxO7s4kqyRklrycvzbWZCWXldZGzFax9ZLcw14VXYwkaE_K4tpFAlIm1J8gt4OSL5ZzEJ_HcIcX1taWi1Cg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:28:27.838Z",
+    "createdAt": "2024-10-30T09:28:27.854Z",
+    "updatedAt": "2024-10-30T09:28:27.854Z"
+  },
+  "m_t86CE-r5U1M_ToczHhHS0GZCWXldZGzFax9ZLcw14VXJe3yk-88PPld_sTo0WPdZfHrvjeUNmAZw8w02ytSe2w": {
+    "mid": "m_t86CE-r5U1M_ToczHhHS0GZCWXldZGzFax9ZLcw14VXJe3yk-88PPld_sTo0WPdZfHrvjeUNmAZw8w02ytSe2w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:28:45.430Z",
+    "createdAt": "2024-10-30T09:28:44.523Z",
+    "updatedAt": "2024-10-30T09:28:44.523Z"
+  },
+  "m_733ERlRxhkzb_8MRUG01VmZCWXldZGzFax9ZLcw14VUmLCUmvfWW5b6LObo471QhvPAJNQxE4Js47SKSYkT-sA": {
+    "mid": "m_733ERlRxhkzb_8MRUG01VmZCWXldZGzFax9ZLcw14VUmLCUmvfWW5b6LObo471QhvPAJNQxE4Js47SKSYkT-sA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:34:50.859Z",
+    "createdAt": "2024-10-30T09:34:50.494Z",
+    "updatedAt": "2024-10-30T09:34:50.494Z"
+  },
+  "m_vwjQyMrCmpJ7ErpuiYZwb2ZCWXldZGzFax9ZLcw14VVaYkW9s18r_tuO5ByJnNrMeKKmJg8HOGvqEDxnF-_QhQ": {
+    "mid": "m_vwjQyMrCmpJ7ErpuiYZwb2ZCWXldZGzFax9ZLcw14VVaYkW9s18r_tuO5ByJnNrMeKKmJg8HOGvqEDxnF-_QhQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/uid",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:35:00.773Z",
+    "createdAt": "2024-10-30T09:35:00.314Z",
+    "updatedAt": "2024-10-30T09:35:00.314Z"
+  },
+  "m_xwPkxa9IKzeGltetGNG_TWZCWXldZGzFax9ZLcw14VWhv325MlIbs9CNkFLC880QIc2JxxkBd7VMAUG6YsEjaQ": {
+    "mid": "m_xwPkxa9IKzeGltetGNG_TWZCWXldZGzFax9ZLcw14VWhv325MlIbs9CNkFLC880QIc2JxxkBd7VMAUG6YsEjaQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "attachments": [
+      {
+        "type": "image",
+        "payload": {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/462646694_856184893385630_4410492683142967489_n.png?stp=cp0_dst-png&_nc_cat=102&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=xX5JYhEXM3sQ7kNvgEGtXl0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ANCoroWGh8w-MQjGISaG2zq&oh=03_Q7cD1QHBS0ASHaG-PdVRDLRSMg0GOaYwVVzW-nn1dXpJtMVGrQ&oe=67495D5E"
+        }
+      }
+    ],
+    "timestamp": "2024-10-30T09:35:43.990Z",
+    "createdAt": "2024-10-30T09:35:44.194Z",
+    "updatedAt": "2024-10-30T09:35:44.194Z"
+  },
+  "m_mi_tyBypVYcGmn4GikIYSmZCWXldZGzFax9ZLcw14VW4NArTgz5IUXH9F2Ve8oLblzV_V680skol2IsohKfW_g": {
+    "mid": "m_mi_tyBypVYcGmn4GikIYSmZCWXldZGzFax9ZLcw14VW4NArTgz5IUXH9F2Ve8oLblzV_V680skol2IsohKfW_g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/welcome",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:36:14.189Z",
+    "createdAt": "2024-10-30T09:36:13.755Z",
+    "updatedAt": "2024-10-30T09:36:13.755Z"
+  },
+  "m_QwjxMDcZZuBHmSpN-xTnPmZCWXldZGzFax9ZLcw14VVYXHCy2_qY-kLbjDrEgScdAEuQufDo30gv_5JsxY18Wg": {
+    "mid": "m_QwjxMDcZZuBHmSpN-xTnPmZCWXldZGzFax9ZLcw14VVYXHCy2_qY-kLbjDrEgScdAEuQufDo30gv_5JsxY18Wg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/welcome",
+    "attachments": [],
+    "timestamp": "2024-10-30T09:37:46.093Z",
+    "createdAt": "2024-10-30T09:37:45.736Z",
+    "updatedAt": "2024-10-30T09:37:45.736Z"
+  },
+  "m_8FjuCcU0SvTLcvH7Lz1B9WZCWXldZGzFax9ZLcw14VXC0Y7FGgSa2lUrCT4XbtOXuFzO05mYnTZWm4xboELzNA": {
+    "mid": "m_8FjuCcU0SvTLcvH7Lz1B9WZCWXldZGzFax9ZLcw14VXC0Y7FGgSa2lUrCT4XbtOXuFzO05mYnTZWm4xboELzNA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T10:51:07.843Z",
+    "createdAt": "2024-10-30T10:51:38.960Z",
+    "updatedAt": "2024-10-30T10:51:38.960Z"
+  },
+  "m_l2pX3aAWTK-uccH8CcEmmGZCWXldZGzFax9ZLcw14VXidXi8f5sE2bp6JnOa29IqXqQCiYGFh2T47GrAwEw8Gw": {
+    "mid": "m_l2pX3aAWTK-uccH8CcEmmGZCWXldZGzFax9ZLcw14VXidXi8f5sE2bp6JnOa29IqXqQCiYGFh2T47GrAwEw8Gw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/uid",
+    "attachments": [],
+    "timestamp": "2024-10-30T10:51:54.205Z",
+    "createdAt": "2024-10-30T10:51:54.118Z",
+    "updatedAt": "2024-10-30T10:51:54.118Z"
+  },
+  "m_W6rJtg1zICAmL1EDChB7ImZCWXldZGzFax9ZLcw14VV21-e_ZWZdVEeVUPYt-wYRgtsxvGRhPsisreFtXFmSww": {
+    "mid": "m_W6rJtg1zICAmL1EDChB7ImZCWXldZGzFax9ZLcw14VV21-e_ZWZdVEeVUPYt-wYRgtsxvGRhPsisreFtXFmSww",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/welcome",
+    "attachments": [],
+    "timestamp": "2024-10-30T10:52:10.109Z",
+    "createdAt": "2024-10-30T10:52:09.613Z",
+    "updatedAt": "2024-10-30T10:52:09.613Z"
+  },
+  "m_52BqDql-u4d7zdOAZWD6tWZCWXldZGzFax9ZLcw14VUDS2xQyER-lbsSX0zdLVOeT1W7Uq4uzNFGZLoCu7HwzQ": {
+    "mid": "m_52BqDql-u4d7zdOAZWD6tWZCWXldZGzFax9ZLcw14VUDS2xQyER-lbsSX0zdLVOeT1W7Uq4uzNFGZLoCu7HwzQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:00:32.677Z",
+    "createdAt": "2024-10-30T11:00:32.404Z",
+    "updatedAt": "2024-10-30T11:00:32.404Z"
+  },
+  "m_qz6CN28fcLXK1mSWX5i-tGZCWXldZGzFax9ZLcw14VXY6IsgfZFftPWl8ziluSTUB4pXiy4kKy-AIR1XKpnunw": {
+    "mid": "m_qz6CN28fcLXK1mSWX5i-tGZCWXldZGzFax9ZLcw14VXY6IsgfZFftPWl8ziluSTUB4pXiy4kKy-AIR1XKpnunw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:00:42.608Z",
+    "createdAt": "2024-10-30T11:00:42.536Z",
+    "updatedAt": "2024-10-30T11:00:42.536Z"
+  },
+  "m_XIbU4rXx6ILkg2yS1uUPQWZCWXldZGzFax9ZLcw14VWYCfXd5nVBIUJD7rmrGLjABHuf0KnDtq9ZG98zeZCSxQ": {
+    "mid": "m_XIbU4rXx6ILkg2yS1uUPQWZCWXldZGzFax9ZLcw14VWYCfXd5nVBIUJD7rmrGLjABHuf0KnDtq9ZG98zeZCSxQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:04:21.786Z",
+    "createdAt": "2024-10-30T11:04:21.586Z",
+    "updatedAt": "2024-10-30T11:04:21.586Z"
+  },
+  "m_ilRQ8c41tjaHpi4rEEBDNGZCWXldZGzFax9ZLcw14VWjpHWLCdRjwKp9k7aMU0H4KpPDgZdS83TExBwWZWa45g": {
+    "mid": "m_ilRQ8c41tjaHpi4rEEBDNGZCWXldZGzFax9ZLcw14VWjpHWLCdRjwKp9k7aMU0H4KpPDgZdS83TExBwWZWa45g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hi",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:05:21.031Z",
+    "createdAt": "2024-10-30T11:05:21.126Z",
+    "updatedAt": "2024-10-30T11:05:21.126Z"
+  },
+  "m_3IR07dhI7Rp6nNviwECHa2ZCWXldZGzFax9ZLcw14VUbHUbOn9pHmMbSUgnUGCE5iYRDz3Z1WGrW4HAVlZBzSg": {
+    "mid": "m_3IR07dhI7Rp6nNviwECHa2ZCWXldZGzFax9ZLcw14VUbHUbOn9pHmMbSUgnUGCE5iYRDz3Z1WGrW4HAVlZBzSg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:07:26.725Z",
+    "createdAt": "2024-10-30T11:07:29.125Z",
+    "updatedAt": "2024-10-30T11:07:29.125Z"
+  },
+  "m_U4ZrCTzA-JBS7OP_Yt9ApmZCWXldZGzFax9ZLcw14VW2AxPXIKzBtV-c291qGmFArU73pJ7FMW5rMZy3td5Bsw": {
+    "mid": "m_U4ZrCTzA-JBS7OP_Yt9ApmZCWXldZGzFax9ZLcw14VW2AxPXIKzBtV-c291qGmFArU73pJ7FMW5rMZy3td5Bsw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:09:13.750Z",
+    "createdAt": "2024-10-30T11:09:13.576Z",
+    "updatedAt": "2024-10-30T11:09:13.576Z"
+  },
+  "m_e3mwhVW3zSMJfkh3RKUXuGZCWXldZGzFax9ZLcw14VW60ZBRBzoUp2qO4ifz5TmOyQwzjSaDxcjh8OvML4evSw": {
+    "mid": "m_e3mwhVW3zSMJfkh3RKUXuGZCWXldZGzFax9ZLcw14VW60ZBRBzoUp2qO4ifz5TmOyQwzjSaDxcjh8OvML4evSw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:10:36.908Z",
+    "createdAt": "2024-10-30T11:10:37.089Z",
+    "updatedAt": "2024-10-30T11:10:37.089Z"
+  },
+  "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg": {
+    "mid": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "attachments": [
+      {
+        "type": "image",
+        "payload": {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/462541447_1260786314946110_7262559011761342151_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=pRKxLx0zPKwQ7kNvgGKjGPK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AgxHjqjleAXdx1GkcKDQBlU&oh=03_Q7cD1QH3UBD6iEPygafyGHkTDigTpl0hWEcy2tt7-2uxjiniow&oe=6749A06C"
+        }
+      }
+    ],
+    "timestamp": "2024-10-30T11:10:57.747Z",
+    "createdAt": "2024-10-30T11:10:57.199Z",
+    "updatedAt": "2024-10-30T11:10:57.199Z"
+  },
+  "m_3OfVf52omIGjm1M6DkuUz2ZCWXldZGzFax9ZLcw14VUn69CZswZmquL3geOnj4dqVdZt-s56eCO2-iPM60Tatg": {
+    "mid": "m_3OfVf52omIGjm1M6DkuUz2ZCWXldZGzFax9ZLcw14VUn69CZswZmquL3geOnj4dqVdZt-s56eCO2-iPM60Tatg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:11:10.502Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:11:10.342Z",
+    "updatedAt": "2024-10-30T11:11:10.342Z"
+  },
+  "m_qx8QVCQGkUB4RPJMydyacGZCWXldZGzFax9ZLcw14VUAr-zEMt7m5lc2Qlfo5PwTTiB_BrRPrz1oz4eZr0Io4Q": {
+    "mid": "m_qx8QVCQGkUB4RPJMydyacGZCWXldZGzFax9ZLcw14VUAr-zEMt7m5lc2Qlfo5PwTTiB_BrRPrz1oz4eZr0Io4Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:16:04.222Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:16:04.434Z",
+    "updatedAt": "2024-10-30T11:16:04.434Z"
+  },
+  "m_9ff41LIeDIJ-V6jRrzx6WGZCWXldZGzFax9ZLcw14VXdjFCSiHSfGaJd-Qp_Ti2KQ9L3O8c9daSLwTkBWENRqw": {
+    "mid": "m_9ff41LIeDIJ-V6jRrzx6WGZCWXldZGzFax9ZLcw14VXdjFCSiHSfGaJd-Qp_Ti2KQ9L3O8c9daSLwTkBWENRqw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:16:42.152Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:16:42.216Z",
+    "updatedAt": "2024-10-30T11:16:42.216Z"
+  },
+  "m_HnQ56yPy8Ubs-UmluWJTpWZCWXldZGzFax9ZLcw14VUme7ipAOFtqwq9srjEGMhBLHAGaYLmE2JrG-H1RY-wVg": {
+    "mid": "m_HnQ56yPy8Ubs-UmluWJTpWZCWXldZGzFax9ZLcw14VUme7ipAOFtqwq9srjEGMhBLHAGaYLmE2JrG-H1RY-wVg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:21:22.357Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:21:22.599Z",
+    "updatedAt": "2024-10-30T11:21:22.599Z"
+  },
+  "m_l1gkWkrrUk_IAdl6rB-TBGZCWXldZGzFax9ZLcw14VX6eZWe3uAJYX6LPn-Ydtjt_5BgQvHs3QdpTIQPEt-2Lg": {
+    "mid": "m_l1gkWkrrUk_IAdl6rB-TBGZCWXldZGzFax9ZLcw14VX6eZWe3uAJYX6LPn-Ydtjt_5BgQvHs3QdpTIQPEt-2Lg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:23:08.541Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:23:08.706Z",
+    "updatedAt": "2024-10-30T11:23:08.706Z"
+  },
+  "m_N313j7eS4OiwoxveEQOs1WZCWXldZGzFax9ZLcw14VXhxx4XnND2IPbY_6psHFWqb-9C-X4ncR4bV3WLqJLbvQ": {
+    "mid": "m_N313j7eS4OiwoxveEQOs1WZCWXldZGzFax9ZLcw14VXhxx4XnND2IPbY_6psHFWqb-9C-X4ncR4bV3WLqJLbvQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini analyz this image and the character it has",
+    "attachments": [],
+    "timestamp": "2024-10-30T11:26:15.330Z",
+    "replyTo": "m_15fnKktgIsIkfHHtQmnicGZCWXldZGzFax9ZLcw14VXRVmNCAFdBNjOeEzOUpm_w24VScPSgAQXvlT-B0dARsg",
+    "createdAt": "2024-10-30T11:26:15.536Z",
+    "updatedAt": "2024-10-30T11:26:15.536Z"
+  },
+  "m_sRfqsmqBEdUc833z0qKRRGZCWXldZGzFax9ZLcw14VVDx-N9PL3t4bxD3WG5KBUAc3Mu8l4a5wlhEgl3D4hMIQ": {
+    "mid": "m_sRfqsmqBEdUc833z0qKRRGZCWXldZGzFax9ZLcw14VVDx-N9PL3t4bxD3WG5KBUAc3Mu8l4a5wlhEgl3D4hMIQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello world",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:25:21.639Z",
+    "createdAt": "2024-10-30T13:26:32.029Z",
+    "updatedAt": "2024-10-30T13:26:32.029Z"
+  },
+  "m_sz9t4L2fAVDy78ewVZom9WZCWXldZGzFax9ZLcw14VUHnMe5o55WLfHz4sWaCVyXzPQ9dfKLFp_j68_QzemTHA": {
+    "mid": "m_sz9t4L2fAVDy78ewVZom9WZCWXldZGzFax9ZLcw14VUHnMe5o55WLfHz4sWaCVyXzPQ9dfKLFp_j68_QzemTHA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini say something from fantasy nivel quote",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:25:48.798Z",
+    "createdAt": "2024-10-30T13:26:59.392Z",
+    "updatedAt": "2024-10-30T13:26:59.392Z"
+  },
+  "m_i9iwZHWtscq9qPBcJNqq5mZCWXldZGzFax9ZLcw14VU8g3U2unzCxpNpuWmcP76rlcJVY97o5VqE_oM3RXvrtg": {
+    "mid": "m_i9iwZHWtscq9qPBcJNqq5mZCWXldZGzFax9ZLcw14VU8g3U2unzCxpNpuWmcP76rlcJVY97o5VqE_oM3RXvrtg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello world",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:35:46.629Z",
+    "createdAt": "2024-10-30T13:36:56.851Z",
+    "updatedAt": "2024-10-30T13:36:56.851Z"
+  },
+  "m_YZULY4EcpGPNu0-6zMoyIWZCWXldZGzFax9ZLcw14VUuqGiMBowoOYTw3hVl_H6jGYOoV8WGZIUh-2Fi9pYbDg": {
+    "mid": "m_YZULY4EcpGPNu0-6zMoyIWZCWXldZGzFax9ZLcw14VUuqGiMBowoOYTw3hVl_H6jGYOoV8WGZIUh-2Fi9pYbDg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini what time is it now",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:36:24.652Z",
+    "createdAt": "2024-10-30T13:37:34.843Z",
+    "updatedAt": "2024-10-30T13:37:34.843Z"
+  },
+  "m_b50OUPPESI2LH9lva1WMumZCWXldZGzFax9ZLcw14VVvHKumu-Z-o_NmCCyoE3swgzJ3iJ94lvf0poXMbZViKg": {
+    "mid": "m_b50OUPPESI2LH9lva1WMumZCWXldZGzFax9ZLcw14VVvHKumu-Z-o_NmCCyoE3swgzJ3iJ94lvf0poXMbZViKg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini what can a noobie cat do",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:37:03.413Z",
+    "createdAt": "2024-10-30T13:38:13.642Z",
+    "updatedAt": "2024-10-30T13:38:13.642Z"
+  },
+  "m_4EXF2XxUUNxG80FO3moBO2ZCWXldZGzFax9ZLcw14VXptMPzFgOyrT5-2pAaACR1q4feJZasWUuFwosC0qoRrA": {
+    "mid": "m_4EXF2XxUUNxG80FO3moBO2ZCWXldZGzFax9ZLcw14VXptMPzFgOyrT5-2pAaACR1q4feJZasWUuFwosC0qoRrA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/uid",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:38:41.452Z",
+    "createdAt": "2024-10-30T13:39:51.385Z",
+    "updatedAt": "2024-10-30T13:39:51.385Z"
+  },
+  "m_zevSV3QKTroZJPHvyNsgHmZCWXldZGzFax9ZLcw14VW3EV7YD4yvdPWH46aNEO3EZg6N9GaY6ryZksDrSouAVQ": {
+    "mid": "m_zevSV3QKTroZJPHvyNsgHmZCWXldZGzFax9ZLcw14VW3EV7YD4yvdPWH46aNEO3EZg6N9GaY6ryZksDrSouAVQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:38:43.227Z",
+    "createdAt": "2024-10-30T13:39:56.121Z",
+    "updatedAt": "2024-10-30T13:39:56.121Z"
+  },
+  "m_nnQLUAjp6o3_sA9e49rLtmZCWXldZGzFax9ZLcw14VXPPIUkBW2N4IgCCLUGQpjdmqmJkwoH-HoYdDLia1FVbw": {
+    "mid": "m_nnQLUAjp6o3_sA9e49rLtmZCWXldZGzFax9ZLcw14VXPPIUkBW2N4IgCCLUGQpjdmqmJkwoH-HoYdDLia1FVbw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:41:35.659Z",
+    "createdAt": "2024-10-30T13:42:45.806Z",
+    "updatedAt": "2024-10-30T13:42:45.806Z"
+  },
+  "m_qc8nsDtgTqHO4lmDIwT8E2ZCWXldZGzFax9ZLcw14VX-Y1lIyZALZUfSl7pBtZp-PV3Jrod7fqIPFH09Hsttug": {
+    "mid": "m_qc8nsDtgTqHO4lmDIwT8E2ZCWXldZGzFax9ZLcw14VX-Y1lIyZALZUfSl7pBtZp-PV3Jrod7fqIPFH09Hsttug",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:42:32.122Z",
+    "createdAt": "2024-10-30T13:43:42.350Z",
+    "updatedAt": "2024-10-30T13:43:42.350Z"
+  },
+  "m_Zx0nznDccnJcSol1IvHJH2ZCWXldZGzFax9ZLcw14VXp4GUlkZ_6CQ_xnJHsEER5k1A_2PHh09gQFkoaUWCGpA": {
+    "mid": "m_Zx0nznDccnJcSol1IvHJH2ZCWXldZGzFax9ZLcw14VXp4GUlkZ_6CQ_xnJHsEER5k1A_2PHh09gQFkoaUWCGpA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:42:42.535Z",
+    "createdAt": "2024-10-30T13:43:52.976Z",
+    "updatedAt": "2024-10-30T13:43:52.976Z"
+  },
+  "m_EUZ55TPWHYT0n7Ew4pNNFGZCWXldZGzFax9ZLcw14VW71Djy6DfMZ1Sux_1hTJsFxHwp0HfU1A8G4nOWUehh1A": {
+    "mid": "m_EUZ55TPWHYT0n7Ew4pNNFGZCWXldZGzFax9ZLcw14VW71Djy6DfMZ1Sux_1hTJsFxHwp0HfU1A8G4nOWUehh1A",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:43:00.977Z",
+    "createdAt": "2024-10-30T13:44:12.774Z",
+    "updatedAt": "2024-10-30T13:44:12.774Z"
+  },
+  "m_gBmz094iqF0AvD10qACQIGZCWXldZGzFax9ZLcw14VX6ZNEZkq6JrZlN791kupUQTfkrrn_hDFIg0HC_pTOX2w": {
+    "mid": "m_gBmz094iqF0AvD10qACQIGZCWXldZGzFax9ZLcw14VX6ZNEZkq6JrZlN791kupUQTfkrrn_hDFIg0HC_pTOX2w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:44:04.799Z",
+    "createdAt": "2024-10-30T13:45:16.460Z",
+    "updatedAt": "2024-10-30T13:45:16.460Z"
+  },
+  "m_cmhc3reHjMnBN8urb8w01GZCWXldZGzFax9ZLcw14VUL5n2fUez3RYcTVyf1D8nzRO7lnGpaRBlNE55TVLr6WA": {
+    "mid": "m_cmhc3reHjMnBN8urb8w01GZCWXldZGzFax9ZLcw14VUL5n2fUez3RYcTVyf1D8nzRO7lnGpaRBlNE55TVLr6WA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:44:14.119Z",
+    "createdAt": "2024-10-30T13:45:24.059Z",
+    "updatedAt": "2024-10-30T13:45:24.059Z"
+  },
+  "m_J52og8P7emfSXKFfj9Ye0WZCWXldZGzFax9ZLcw14VVj-GBydRizByWPlbLZg6u3kmrx0LvYaFm3KJH0eN95Ww": {
+    "mid": "m_J52og8P7emfSXKFfj9Ye0WZCWXldZGzFax9ZLcw14VVj-GBydRizByWPlbLZg6u3kmrx0LvYaFm3KJH0eN95Ww",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gpt hello",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:55:31.801Z",
+    "createdAt": "2024-10-30T13:56:42.138Z",
+    "updatedAt": "2024-10-30T13:56:42.138Z"
+  },
+  "m_7ZD5FAlX3WQbeIhzDxrhgGZCWXldZGzFax9ZLcw14VWzcIPMZllZ8NTkSfMwpGtcdPvM94p8oQ8OMoewqK1eFA": {
+    "mid": "m_7ZD5FAlX3WQbeIhzDxrhgGZCWXldZGzFax9ZLcw14VWzcIPMZllZ8NTkSfMwpGtcdPvM94p8oQ8OMoewqK1eFA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gpt what are you boi",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:55:49.066Z",
+    "createdAt": "2024-10-30T13:56:58.886Z",
+    "updatedAt": "2024-10-30T13:56:58.886Z"
+  },
+  "m_qhhk7hf1StHjHiWRuO9SMGZCWXldZGzFax9ZLcw14VWzP9OK6zSpBx5GbHo9cw1Ww_KkE13wgEErHV3680a9-Q": {
+    "mid": "m_qhhk7hf1StHjHiWRuO9SMGZCWXldZGzFax9ZLcw14VWzP9OK6zSpBx5GbHo9cw1Ww_KkE13wgEErHV3680a9-Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gpt whats your model",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:56:15.734Z",
+    "createdAt": "2024-10-30T13:57:25.756Z",
+    "updatedAt": "2024-10-30T13:57:25.756Z"
+  },
+  "m__LyKyvLGZXkHtHo2BVevjWZCWXldZGzFax9ZLcw14VXY5Vymg83qZ1PfsKL1bwVnuJUq4Wxw9k5JZJ6WPISbfg": {
+    "mid": "m__LyKyvLGZXkHtHo2BVevjWZCWXldZGzFax9ZLcw14VXY5Vymg83qZ1PfsKL1bwVnuJUq4Wxw9k5JZJ6WPISbfg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T13:57:00.416Z",
+    "createdAt": "2024-10-30T13:58:10.567Z",
+    "updatedAt": "2024-10-30T13:58:10.567Z"
+  },
+  "m_KyyuFo6AQh9Y754P535a8WZCWXldZGzFax9ZLcw14VVJl_QnFQSJp0M72I4BlrYWOLlwHXd5z4540zbyyfS4mg": {
+    "mid": "m_KyyuFo6AQh9Y754P535a8WZCWXldZGzFax9ZLcw14VVJl_QnFQSJp0M72I4BlrYWOLlwHXd5z4540zbyyfS4mg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:03:30.923Z",
+    "createdAt": "2024-10-30T14:04:41.157Z",
+    "updatedAt": "2024-10-30T14:04:41.157Z"
+  },
+  "m_e9vw7z5pUETJF-pSGGiUUGZCWXldZGzFax9ZLcw14VVKNOK0yTUhmRbYCYc23hcKpz6awjLRC5bHm9xReMZg7A": {
+    "mid": "m_e9vw7z5pUETJF-pSGGiUUGZCWXldZGzFax9ZLcw14VVKNOK0yTUhmRbYCYc23hcKpz6awjLRC5bHm9xReMZg7A",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:07:46.316Z",
+    "createdAt": "2024-10-30T14:08:57.501Z",
+    "updatedAt": "2024-10-30T14:08:57.501Z"
+  },
+  "m_vUe-zI9Bis-O6-iHq6rqqGZCWXldZGzFax9ZLcw14VVEVs12il22k9wAy4Ub3-HEsbGa2yadFCH-GLJTRBhFIg": {
+    "mid": "m_vUe-zI9Bis-O6-iHq6rqqGZCWXldZGzFax9ZLcw14VVEVs12il22k9wAy4Ub3-HEsbGa2yadFCH-GLJTRBhFIg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:09:11.990Z",
+    "createdAt": "2024-10-30T14:10:21.970Z",
+    "updatedAt": "2024-10-30T14:10:21.970Z"
+  },
+  "m_LdhtchXsQSd3XAVc4ncO1WZCWXldZGzFax9ZLcw14VUycUmLgV35VOIPJhtHJZMRNv50TNShzpY1vBh1_6Elmw": {
+    "mid": "m_LdhtchXsQSd3XAVc4ncO1WZCWXldZGzFax9ZLcw14VUycUmLgV35VOIPJhtHJZMRNv50TNShzpY1vBh1_6Elmw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:09:46.437Z",
+    "createdAt": "2024-10-30T14:10:56.451Z",
+    "updatedAt": "2024-10-30T14:10:56.451Z"
+  },
+  "m_lj3RMjz_c_fTsAl6DzxOs2ZCWXldZGzFax9ZLcw14VWfIk4jwnfBxZR4VHukMeuv3k8DX73jEkt0E3nq-bTpmw": {
+    "mid": "m_lj3RMjz_c_fTsAl6DzxOs2ZCWXldZGzFax9ZLcw14VWfIk4jwnfBxZR4VHukMeuv3k8DX73jEkt0E3nq-bTpmw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:13:48.646Z",
+    "createdAt": "2024-10-30T14:14:59.090Z",
+    "updatedAt": "2024-10-30T14:14:59.090Z"
+  },
+  "m_xhdkadZdWCckdZSbMJ_UImZCWXldZGzFax9ZLcw14VX1KdFgMvH-E1hUjq5BX0xwIUNTw0xq1M-2Z_jZlsffzw": {
+    "mid": "m_xhdkadZdWCckdZSbMJ_UImZCWXldZGzFax9ZLcw14VX1KdFgMvH-E1hUjq5BX0xwIUNTw0xq1M-2Z_jZlsffzw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gpt",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:14:38.653Z",
+    "createdAt": "2024-10-30T14:15:48.863Z",
+    "updatedAt": "2024-10-30T14:15:48.863Z"
+  },
+  "m_gMX7kduXlqBFyOSkw7I6CWZCWXldZGzFax9ZLcw14VX8OmqaDezRP7zOzhUW43w9Zxp7HOtkk2MdBG0s-DuFWg": {
+    "mid": "m_gMX7kduXlqBFyOSkw7I6CWZCWXldZGzFax9ZLcw14VX8OmqaDezRP7zOzhUW43w9Zxp7HOtkk2MdBG0s-DuFWg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:14:41.790Z",
+    "createdAt": "2024-10-30T14:15:52.951Z",
+    "updatedAt": "2024-10-30T14:15:52.951Z"
+  },
+  "m_tyHqXI7vhbaoCQTlR0-WomZCWXldZGzFax9ZLcw14VUOdMYMSY5YjASsQuU4i0tDDa34wRdh1xNLVWXqEHffTA": {
+    "mid": "m_tyHqXI7vhbaoCQTlR0-WomZCWXldZGzFax9ZLcw14VUOdMYMSY5YjASsQuU4i0tDDa34wRdh1xNLVWXqEHffTA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:17:04.304Z",
+    "createdAt": "2024-10-30T14:18:14.501Z",
+    "updatedAt": "2024-10-30T14:18:14.501Z"
+  },
+  "m_Hvk71JxOEzBCRfgtVIxkY2ZCWXldZGzFax9ZLcw14VUn5HQ0Zkk3LY-YzxO0JP2ONbmUqMYveF5KGcoy-fryAA": {
+    "mid": "m_Hvk71JxOEzBCRfgtVIxkY2ZCWXldZGzFax9ZLcw14VUn5HQ0Zkk3LY-YzxO0JP2ONbmUqMYveF5KGcoy-fryAA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "\\help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:18:50.929Z",
+    "createdAt": "2024-10-30T14:20:00.883Z",
+    "updatedAt": "2024-10-30T14:20:00.883Z"
+  },
+  "m_9_N1gUESvAyeh5btzWVXzWZCWXldZGzFax9ZLcw14VWzeoJh9w-2fEbLb0lBEDAFrHGAJN3_qLgvXXLUrW6GFA": {
+    "mid": "m_9_N1gUESvAyeh5btzWVXzWZCWXldZGzFax9ZLcw14VWzeoJh9w-2fEbLb0lBEDAFrHGAJN3_qLgvXXLUrW6GFA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:18:53.281Z",
+    "createdAt": "2024-10-30T14:20:05.103Z",
+    "updatedAt": "2024-10-30T14:20:05.103Z"
+  },
+  "m_nBxsDDDFjjgAS_uHXRjqqWZCWXldZGzFax9ZLcw14VX-JZbsLc2JHvyO81QDdUD9zbcmOFebz-HUgi0l60E7vg": {
+    "mid": "m_nBxsDDDFjjgAS_uHXRjqqWZCWXldZGzFax9ZLcw14VX-JZbsLc2JHvyO81QDdUD9zbcmOFebz-HUgi0l60E7vg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:21:29.626Z",
+    "createdAt": "2024-10-30T14:22:39.999Z",
+    "updatedAt": "2024-10-30T14:22:39.999Z"
+  },
+  "m_TWdbAakv3ewy4SP7C9-ZQWZCWXldZGzFax9ZLcw14VUvkQ8VryL_a2xPQHHRNmNwCMge0-4Q9CLWfZn8KNSy1w": {
+    "mid": "m_TWdbAakv3ewy4SP7C9-ZQWZCWXldZGzFax9ZLcw14VUvkQ8VryL_a2xPQHHRNmNwCMge0-4Q9CLWfZn8KNSy1w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:22:24.795Z",
+    "createdAt": "2024-10-30T14:23:35.075Z",
+    "updatedAt": "2024-10-30T14:23:35.075Z"
+  },
+  "m_b94KDOL6Pf226eVaEN-2FGZCWXldZGzFax9ZLcw14VX0OXNGky9Qp_bkbU_LNlPxHhIAfW46asOAcf3y4h46rw": {
+    "mid": "m_b94KDOL6Pf226eVaEN-2FGZCWXldZGzFax9ZLcw14VX0OXNGky9Qp_bkbU_LNlPxHhIAfW46asOAcf3y4h46rw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:22:56.961Z",
+    "createdAt": "2024-10-30T14:24:07.392Z",
+    "updatedAt": "2024-10-30T14:24:07.392Z"
+  },
+  "m_V04s_gI7Exw_iE9LaP53lWZCWXldZGzFax9ZLcw14VUOoycufNfemJN3ffNxaqC_iMeWIwGZ2FFW4kGl-3CeSA": {
+    "mid": "m_V04s_gI7Exw_iE9LaP53lWZCWXldZGzFax9ZLcw14VUOoycufNfemJN3ffNxaqC_iMeWIwGZ2FFW4kGl-3CeSA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:23:41.874Z",
+    "createdAt": "2024-10-30T14:24:52.477Z",
+    "updatedAt": "2024-10-30T14:24:52.477Z"
+  },
+  "m_zZVA0scBsu89zofBztChq2ZCWXldZGzFax9ZLcw14VVZtEcTOx96TWtN81GLjgTuwmewmQPnKD0cfeR3ey2hFw": {
+    "mid": "m_zZVA0scBsu89zofBztChq2ZCWXldZGzFax9ZLcw14VVZtEcTOx96TWtN81GLjgTuwmewmQPnKD0cfeR3ey2hFw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:24:17.165Z",
+    "createdAt": "2024-10-30T14:25:27.351Z",
+    "updatedAt": "2024-10-30T14:25:27.351Z"
+  },
+  "m_zA2VFLnUUhUb5bRt64am4mZCWXldZGzFax9ZLcw14VUmfl5ZorfWmEPI2e_7dlbjj3QXqRL9U9GyIhZeUE0Kwg": {
+    "mid": "m_zA2VFLnUUhUb5bRt64am4mZCWXldZGzFax9ZLcw14VUmfl5ZorfWmEPI2e_7dlbjj3QXqRL9U9GyIhZeUE0Kwg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "Preview Copy Tweet\nA͢ ͢B͢ ͢C͢ ͢D͢ ͢E͢ ͢",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:26:53.671Z",
+    "createdAt": "2024-10-30T14:28:04.309Z",
+    "updatedAt": "2024-10-30T14:28:04.309Z"
+  },
+  "m_o9vw75lLq46kej1HQS12TWZCWXldZGzFax9ZLcw14VWpD-Lq7kL4c7UA55wAWGS7_KggT8lG1RxHcVolXCcpjQ": {
+    "mid": "m_o9vw75lLq46kej1HQS12TWZCWXldZGzFax9ZLcw14VWpD-Lq7kL4c7UA55wAWGS7_KggT8lG1RxHcVolXCcpjQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "B͙ ͙C͙ ͙D͙ ͙E͙ ͙F͙ ͙G͙ ͙H͙ ͙ ͙I͙ ͙J͙ ͙K͙ ͙L͙ ͙M͙ ͙N͙",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:27:09.812Z",
+    "createdAt": "2024-10-30T14:28:20.308Z",
+    "updatedAt": "2024-10-30T14:28:20.308Z"
+  },
+  "m_7vMr6yJNyE0ejHcUCd6J52ZCWXldZGzFax9ZLcw14VWgPe3ThLEt5roW81J8SxWFSD3sy-vpnS4-yy4lBci-BA": {
+    "mid": "m_7vMr6yJNyE0ejHcUCd6J52ZCWXldZGzFax9ZLcw14VWgPe3ThLEt5roW81J8SxWFSD3sy-vpnS4-yy4lBci-BA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "𝐴 𝐵 𝐶 𝐷 𝐸 𝐹 𝐺 𝐻  𝐼 𝐽 𝐾 𝐿 𝑀 𝑁 𝑂 𝑃 𝑄 𝑅 𝑆 𝑇 𝑈 𝑉 𝑊 𝑋 𝑌 𝑍 𝑎 𝑏 𝑐 𝑑 𝑒 𝑓 𝑔 ℎ 𝑖 𝑗 𝑘 𝑙 𝑚 𝑛 𝑜 𝑝 𝑞 𝑟 𝑠 𝑡 𝑢 𝑣 𝑤 𝑥 𝑦 𝑧 1 2 3 4 5 6 7 8 9 0 . , \\ / ? ! @ # $ % * ( ) - = +",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:27:27.279Z",
+    "createdAt": "2024-10-30T14:28:37.826Z",
+    "updatedAt": "2024-10-30T14:28:37.826Z"
+  },
+  "m_JpIaSMGO9OK3_3dCM2_F3WZCWXldZGzFax9ZLcw14VXvXwuF8BrwxBUwTARurE4NH7yLqIQOmVSHrRPjfuwq2A": {
+    "mid": "m_JpIaSMGO9OK3_3dCM2_F3WZCWXldZGzFax9ZLcw14VXvXwuF8BrwxBUwTARurE4NH7yLqIQOmVSHrRPjfuwq2A",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "B̳ ̳C̳ ̳D̳ ̳E̳ ̳F̳ ̳G̳ ̳H̳ ̳",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:28:22.956Z",
+    "createdAt": "2024-10-30T14:29:32.761Z",
+    "updatedAt": "2024-10-30T14:29:32.761Z"
+  },
+  "m_Ubh3mLqclS2tgESzylZOW2ZCWXldZGzFax9ZLcw14VUXZme8QI2OxVRhYPPxS1TgKUy4GIXz0l1GwMkUTRcuOg": {
+    "mid": "m_Ubh3mLqclS2tgESzylZOW2ZCWXldZGzFax9ZLcw14VUXZme8QI2OxVRhYPPxS1TgKUy4GIXz0l1GwMkUTRcuOg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "Copy Tweet\nA̲ ̲B̲ ̲C̲ ̲D̲ ̲E̲",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:28:34.630Z",
+    "createdAt": "2024-10-30T14:29:44.645Z",
+    "updatedAt": "2024-10-30T14:29:44.645Z"
+  },
+  "m_wdSVlXuhvlF6Z41PkavWu2ZCWXldZGzFax9ZLcw14VVcQD1w3LvX_cvKSvJnVNMoH5VMGAxF-el-sN4YhMvxXw": {
+    "mid": "m_wdSVlXuhvlF6Z41PkavWu2ZCWXldZGzFax9ZLcw14VVcQD1w3LvX_cvKSvJnVNMoH5VMGAxF-el-sN4YhMvxXw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "𝚄̲𝚗̲𝚍̲𝚎̲𝚛̲𝚕̲𝚒̲𝚗̲𝚎̲",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:29:41.408Z",
+    "createdAt": "2024-10-30T14:30:51.962Z",
+    "updatedAt": "2024-10-30T14:30:51.962Z"
+  },
+  "m_ydZObExyeG5IwixpHC133GZCWXldZGzFax9ZLcw14VXQdKBLWPWl1Q466Q6BBxs4L8cM1fN2-YBx7Cxnduu21Q": {
+    "mid": "m_ydZObExyeG5IwixpHC133GZCWXldZGzFax9ZLcw14VXQdKBLWPWl1Q466Q6BBxs4L8cM1fN2-YBx7Cxnduu21Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:31:27.690Z",
+    "createdAt": "2024-10-30T14:32:39.255Z",
+    "updatedAt": "2024-10-30T14:32:39.255Z"
+  },
+  "m_RSnVa4VE-1WGfCvWx8mBYmZCWXldZGzFax9ZLcw14VVVojk9Jh1Gc4DEcw2tOOn3nwsFucAhsSHwAyedDRGLjA": {
+    "mid": "m_RSnVa4VE-1WGfCvWx8mBYmZCWXldZGzFax9ZLcw14VVVojk9Jh1Gc4DEcw2tOOn3nwsFucAhsSHwAyedDRGLjA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "💼 **Admin Panel**\n━━━━━━━━━━━━━\n🔹 `!ban` - Ban a user\n🔹 `!mute` - Temporarily mute\n🔹 `!unmute` - Unmute user\n━━━━━━━━━━━━━\n\n🤖 **AI Functions**\n━━━━━━━━━━━━━\n🔹 `!chat` - Chat with AI\n🔹 `!translate` - Multilingual support\n🔹 `!facts` - Fun AI facts\n━━━━━━━━━━━━━\n\n🎉 **Fun Commands**\n━━━━━━━━━━━━━\n🔹 `!joke` - Hear a joke\n🔹 `!roll` - Roll a virtual dice\n🔹 `!quote` - Get inspired\n━━━━━━━━━━━━━\n\nℹ️ **Information**\n━━━━━━━━━━━━━\n🔹 `!about` - Bot info\n🔹 `!status` - Check status\n🔹 `!help` - Command usage\n\n━━━━━━━━━━━━━\n💡 Use `/help <command>` to see more details.\nBot by **Mis Touka**\n━━━━━━━━━━━━━",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:35:03.457Z",
+    "createdAt": "2024-10-30T14:36:13.996Z",
+    "updatedAt": "2024-10-30T14:36:13.996Z"
+  },
+  "m_YNHJNTwVT77F97DUGgjnQWZCWXldZGzFax9ZLcw14VUD3sZgyZEB8qkiYB2vemT7CgFxyflimxC358YspsBg8w": {
+    "mid": "m_YNHJNTwVT77F97DUGgjnQWZCWXldZGzFax9ZLcw14VUD3sZgyZEB8qkiYB2vemT7CgFxyflimxC358YspsBg8w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "📜 **Help Menu**\n\n📂 **Administration**\n• **!ban** - Ban a user\n• **!kick** - Kick a user\n• **!setrole** - Assign a role\n\n💬 **Chat Commands**\n• **!greet** - Send a greeting\n• **!quote** - Get a quote\n• **!weather** - Check the weather\n\n🎲 **Fun & Games**\n• **!roll** - Roll a dice\n• **!flip** - Flip a coin\n• **!trivia** - Play a trivia game\n\n━━━━━━━━━━━━━━━━━\n🔹 **Tip:** Use `/help <command>` for more details.\n👤 **Created by Mis Touka**\n━━━━━━━━━━━━━━━━━",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:35:26.417Z",
+    "createdAt": "2024-10-30T14:36:36.706Z",
+    "updatedAt": "2024-10-30T14:36:36.706Z"
+  },
+  "m_mO4hGTIbf-CIvEm0bwGOEWZCWXldZGzFax9ZLcw14VUeSWPAn6_bpGg00q39WZsuTl3HJwuVdAZFYkbt3dWMog": {
+    "mid": "m_mO4hGTIbf-CIvEm0bwGOEWZCWXldZGzFax9ZLcw14VUeSWPAn6_bpGg00q39WZsuTl3HJwuVdAZFYkbt3dWMog",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "┌──────────────┐\n│ 📌 **Commands Overview** │\n└──────────────┘\n\n[ 🔒 ] **Admin Tools**\n> 🔸 `!setrole` — Assign a role\n> 🔸 `!mute` — Mute a user temporarily\n> 🔸 `!unmute` — Unmute a user\n\n[ 🤖 ] **AI Commands**\n> 🔸 `!ask` — Ask the AI anything\n> 🔸 `!translate` — Translate text\n> 🔸 `!joke` — Get a random joke\n\n[ 🎮 ] **Entertainment**\n> 🔸 `!play` — Play a music track\n> 🔸 `!pause` — Pause the current track\n> 🔸 `!queue` — Show music queue\n\n━━━━━━━━━━━━━━━━━━━━━\n💡 **Usage:** Type `/help <command>` to see usage details.\n👤 **Developed by:** Mis Touka\n━━━━━━━━━━━━━━━━━━━━━",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:35:41.105Z",
+    "createdAt": "2024-10-30T14:36:51.652Z",
+    "updatedAt": "2024-10-30T14:36:51.652Z"
+  },
+  "m_lWQ09RFNYFijPTKistJAimZCWXldZGzFax9ZLcw14VX9RwEIhG_CG3ImTVukCKmbeOAxcCpqaA4ZcHtzVB_eYA": {
+    "mid": "m_lWQ09RFNYFijPTKistJAimZCWXldZGzFax9ZLcw14VX9RwEIhG_CG3ImTVukCKmbeOAxcCpqaA4ZcHtzVB_eYA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "🎉 **Bot Command Hub**\n\n✨ **Admin Commands**\n• `!ban` - Ban a user from the server\n• `!kick` - Remove a user temporarily\n• `!mute` - Silence a user for a specified duration\n\n🤖 **AI Commands**\n• `!ai-chat` - Chat with the AI bot\n• `!translate` - Translate text to a chosen language\n• `!summarize` - Summarize lengthy texts\n\n🎮 **Games & Fun**\n• `!trivia` - Play a trivia game\n• `!rps` - Rock, paper, scissors game\n• `!quote` - Get a random inspirational quote\n\n━━━━━━━━━━━━━━━━━━━\n🔹 **Tip:** Use `/help <command>` for detailed info.\n🔹 **Status:** 12 commands online\n🔹 **Bot Developer:** @MisTouka\n━━━━━━━━━━━━━━━━━━━",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:36:09.483Z",
+    "createdAt": "2024-10-30T14:37:19.715Z",
+    "updatedAt": "2024-10-30T14:37:19.715Z"
+  },
+  "m_AOfu3xBcpHoozN8vzEhtyWZCWXldZGzFax9ZLcw14VU7sx0FVf42sDa2PVGwi-dEbs4j9Ej-F4UpKx7ztsf9iA": {
+    "mid": "m_AOfu3xBcpHoozN8vzEhtyWZCWXldZGzFax9ZLcw14VU7sx0FVf42sDa2PVGwi-dEbs4j9Ej-F4UpKx7ztsf9iA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:38:45.697Z",
+    "createdAt": "2024-10-30T14:39:56.035Z",
+    "updatedAt": "2024-10-30T14:39:56.035Z"
+  },
+  "m_UGR7VziM8Qo535DWUYXxHmZCWXldZGzFax9ZLcw14VW3bX2nMbbngAZDeqWwaCXkJ2edJSjDmk7JM4q7nwpv-g": {
+    "mid": "m_UGR7VziM8Qo535DWUYXxHmZCWXldZGzFax9ZLcw14VW3bX2nMbbngAZDeqWwaCXkJ2edJSjDmk7JM4q7nwpv-g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:39:55.705Z",
+    "createdAt": "2024-10-30T14:41:05.967Z",
+    "updatedAt": "2024-10-30T14:41:05.967Z"
+  },
+  "m_dbOKyYc9KaXk5Hd7cECqxWZCWXldZGzFax9ZLcw14VVVqmt1XgzctQwwpmcjRUwC7l0y7DaeFQe5e0PfLAhS2w": {
+    "mid": "m_dbOKyYc9KaXk5Hd7cECqxWZCWXldZGzFax9ZLcw14VVVqmt1XgzctQwwpmcjRUwC7l0y7DaeFQe5e0PfLAhS2w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:40:37.446Z",
+    "createdAt": "2024-10-30T14:41:47.824Z",
+    "updatedAt": "2024-10-30T14:41:47.824Z"
+  },
+  "m_FaGPyOJ3Ag6dhzxPdIdpfWZCWXldZGzFax9ZLcw14VWF2eWi8IlT3JSTA8bG6MN6s9f787SjUJH4VepAKZ1KnQ": {
+    "mid": "m_FaGPyOJ3Ag6dhzxPdIdpfWZCWXldZGzFax9ZLcw14VWF2eWi8IlT3JSTA8bG6MN6s9f787SjUJH4VepAKZ1KnQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:41:52.904Z",
+    "createdAt": "2024-10-30T14:43:02.986Z",
+    "updatedAt": "2024-10-30T14:43:02.986Z"
+  },
+  "m_9VtChM0JUMtCzxCdmZd61GZCWXldZGzFax9ZLcw14VVtNa6E4djvfC_i6f_83gB2GV2uh7M356dDS6yYuJ-unw": {
+    "mid": "m_9VtChM0JUMtCzxCdmZd61GZCWXldZGzFax9ZLcw14VVtNa6E4djvfC_i6f_83gB2GV2uh7M356dDS6yYuJ-unw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:42:59.950Z",
+    "createdAt": "2024-10-30T14:44:10.574Z",
+    "updatedAt": "2024-10-30T14:44:10.574Z"
+  },
+  "m_MxIO-DCawVTs9h7uHsIBeGZCWXldZGzFax9ZLcw14VWuf4_Sk62W7jNIUZHs02a-4ESaV_PMQt3A6M73FKiNqg": {
+    "mid": "m_MxIO-DCawVTs9h7uHsIBeGZCWXldZGzFax9ZLcw14VWuf4_Sk62W7jNIUZHs02a-4ESaV_PMQt3A6M73FKiNqg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:45:10.756Z",
+    "createdAt": "2024-10-30T14:46:20.883Z",
+    "updatedAt": "2024-10-30T14:46:20.883Z"
+  },
+  "m_h_40bqxv56rV_SdYooig4mZCWXldZGzFax9ZLcw14VWeMpYYuDclcsjTTHrAYhInLEKASuX-mgWLweEt_g4-Mw": {
+    "mid": "m_h_40bqxv56rV_SdYooig4mZCWXldZGzFax9ZLcw14VWeMpYYuDclcsjTTHrAYhInLEKASuX-mgWLweEt_g4-Mw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:47:49.163Z",
+    "createdAt": "2024-10-30T14:48:59.447Z",
+    "updatedAt": "2024-10-30T14:48:59.447Z"
+  },
+  "m_TjjNTO2bM8kgvLbUNefuQmZCWXldZGzFax9ZLcw14VXXuVsDm1cEMl7nicYO-5cvBgly4odRmyNQ1H6ylBp6CA": {
+    "mid": "m_TjjNTO2bM8kgvLbUNefuQmZCWXldZGzFax9ZLcw14VXXuVsDm1cEMl7nicYO-5cvBgly4odRmyNQ1H6ylBp6CA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:50:15.398Z",
+    "createdAt": "2024-10-30T14:51:25.748Z",
+    "updatedAt": "2024-10-30T14:51:25.748Z"
+  },
+  "m_UaxsL6FWSKJe79VrdXKOimZCWXldZGzFax9ZLcw14VXc3cecDCX9BItZrhQvPZbncCkNjaznnMhGozyXvY44_w": {
+    "mid": "m_UaxsL6FWSKJe79VrdXKOimZCWXldZGzFax9ZLcw14VXc3cecDCX9BItZrhQvPZbncCkNjaznnMhGozyXvY44_w",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:54:37.562Z",
+    "createdAt": "2024-10-30T14:55:47.976Z",
+    "updatedAt": "2024-10-30T14:55:47.976Z"
+  },
+  "m_zeQ9wOw24BLlAOQxuGSriGZCWXldZGzFax9ZLcw14VWA8e2r9NRiBfpU7RyMbz0IszKZMgqVKOHk8C5jKYOK5Q": {
+    "mid": "m_zeQ9wOw24BLlAOQxuGSriGZCWXldZGzFax9ZLcw14VWA8e2r9NRiBfpU7RyMbz0IszKZMgqVKOHk8C5jKYOK5Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help id",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:54:48.834Z",
+    "createdAt": "2024-10-30T14:55:58.686Z",
+    "updatedAt": "2024-10-30T14:55:58.686Z"
+  },
+  "m_SUfkaEeB-6sY2u4KDf0qPmZCWXldZGzFax9ZLcw14VXdZfkWctBp5vl3jRTXSK1DXTUcj-8FLhHaNu2ZKk-rHA": {
+    "mid": "m_SUfkaEeB-6sY2u4KDf0qPmZCWXldZGzFax9ZLcw14VXdZfkWctBp5vl3jRTXSK1DXTUcj-8FLhHaNu2ZKk-rHA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help id",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:55:56.743Z",
+    "createdAt": "2024-10-30T14:57:06.571Z",
+    "updatedAt": "2024-10-30T14:57:06.571Z"
+  },
+  "m_sfBgPip7E-1ijyUKl7KOwGZCWXldZGzFax9ZLcw14VWWhUW7innH5LQVavL-MQ613laOZCwrDXZCX97HFPsHAA": {
+    "mid": "m_sfBgPip7E-1ijyUKl7KOwGZCWXldZGzFax9ZLcw14VWWhUW7innH5LQVavL-MQ613laOZCwrDXZCX97HFPsHAA",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:56:18.113Z",
+    "createdAt": "2024-10-30T14:57:27.965Z",
+    "updatedAt": "2024-10-30T14:57:27.965Z"
+  },
+  "m_g13XKRxzRZg7b7zX9kCnsWZCWXldZGzFax9ZLcw14VVniU78ZEQv1CSrZM8C077XnsjtXTVVO3cbW4HxtYEXIw": {
+    "mid": "m_g13XKRxzRZg7b7zX9kCnsWZCWXldZGzFax9ZLcw14VVniU78ZEQv1CSrZM8C077XnsjtXTVVO3cbW4HxtYEXIw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:57:30.520Z",
+    "createdAt": "2024-10-30T14:58:40.689Z",
+    "updatedAt": "2024-10-30T14:58:40.689Z"
+  },
+  "m_5KjTqVkNIvHeHsR6p_J7RWZCWXldZGzFax9ZLcw14VX9-l5o-hJvkEMOR6RWopQzLrD_4nfAyWmDvB5lCwWFGw": {
+    "mid": "m_5KjTqVkNIvHeHsR6p_J7RWZCWXldZGzFax9ZLcw14VX9-l5o-hJvkEMOR6RWopQzLrD_4nfAyWmDvB5lCwWFGw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help gimini",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:57:37.917Z",
+    "createdAt": "2024-10-30T14:58:48.103Z",
+    "updatedAt": "2024-10-30T14:58:48.103Z"
+  },
+  "m_U_jWBFUrEeYJHb2zcBoSzGZCWXldZGzFax9ZLcw14VW7wqCCH-DkmzcZ1qo8KdbCGZIg0nn66ZrMle1YHzh23g": {
+    "mid": "m_U_jWBFUrEeYJHb2zcBoSzGZCWXldZGzFax9ZLcw14VW7wqCCH-DkmzcZ1qo8KdbCGZIg0nn66ZrMle1YHzh23g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help gemini",
+    "attachments": [],
+    "timestamp": "2024-10-30T14:58:01.114Z",
+    "createdAt": "2024-10-30T14:59:10.971Z",
+    "updatedAt": "2024-10-30T14:59:10.971Z"
+  },
+  "m_2qDIdD3c5Ikmld8naqBnAmZCWXldZGzFax9ZLcw14VV1vn2QIDiyM-dSixT-1ggZL7oCBqPaZN2USwV8VR4Gmw": {
+    "mid": "m_2qDIdD3c5Ikmld8naqBnAmZCWXldZGzFax9ZLcw14VV1vn2QIDiyM-dSixT-1ggZL7oCBqPaZN2USwV8VR4Gmw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help gemini",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:00:08.824Z",
+    "createdAt": "2024-10-30T15:01:19.454Z",
+    "updatedAt": "2024-10-30T15:01:19.454Z"
+  },
+  "m_Wwfsk4mXbmHPdMTJDPm8uWZCWXldZGzFax9ZLcw14VXJJkp5NITmvfQ_rd_JFYd61LGwx9Uf2yWBaR7iUP6zAw": {
+    "mid": "m_Wwfsk4mXbmHPdMTJDPm8uWZCWXldZGzFax9ZLcw14VXJJkp5NITmvfQ_rd_JFYd61LGwx9Uf2yWBaR7iUP6zAw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:02:29.792Z",
+    "createdAt": "2024-10-30T15:03:40.111Z",
+    "updatedAt": "2024-10-30T15:03:40.111Z"
+  },
+  "m_64ChTj8PoyDA0_U6WW-ri2ZCWXldZGzFax9ZLcw14VWeZLlImTcUnA41eZvHZ4TSFhi4gcRZQyz4sVVcwCFcaQ": {
+    "mid": "m_64ChTj8PoyDA0_U6WW-ri2ZCWXldZGzFax9ZLcw14VWeZLlImTcUnA41eZvHZ4TSFhi4gcRZQyz4sVVcwCFcaQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:06:07.514Z",
+    "createdAt": "2024-10-30T15:07:17.861Z",
+    "updatedAt": "2024-10-30T15:07:17.861Z"
+  },
+  "m_9cuqWuRxSonnLJzgBscS8GZCWXldZGzFax9ZLcw14VUkB9athhwRHr7vd6BIwUpbNuGDaScJixLuij-Z3bfz_Q": {
+    "mid": "m_9cuqWuRxSonnLJzgBscS8GZCWXldZGzFax9ZLcw14VUkB9athhwRHr7vd6BIwUpbNuGDaScJixLuij-Z3bfz_Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:07:03.004Z",
+    "createdAt": "2024-10-30T15:08:12.957Z",
+    "updatedAt": "2024-10-30T15:08:12.957Z"
+  },
+  "m_EZTZuqN2uFh5hlIVA6sIeGZCWXldZGzFax9ZLcw14VWN_KIMdWoq6QqtTIjparLqheQPwTwpMscDl9FVlH_g6A": {
+    "mid": "m_EZTZuqN2uFh5hlIVA6sIeGZCWXldZGzFax9ZLcw14VWN_KIMdWoq6QqtTIjparLqheQPwTwpMscDl9FVlH_g6A",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:08:37.966Z",
+    "createdAt": "2024-10-30T15:09:47.668Z",
+    "updatedAt": "2024-10-30T15:09:47.668Z"
+  },
+  "m_3YBn0VCddxts-mv5heI1GWZCWXldZGzFax9ZLcw14VUn9Ifs7r0TMBmFTubA6aJC6tGzPUWvNao1BMpYvv36cQ": {
+    "mid": "m_3YBn0VCddxts-mv5heI1GWZCWXldZGzFax9ZLcw14VUn9Ifs7r0TMBmFTubA6aJC6tGzPUWvNao1BMpYvv36cQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:10:07.244Z",
+    "createdAt": "2024-10-30T15:11:17.581Z",
+    "updatedAt": "2024-10-30T15:11:17.581Z"
+  },
+  "m_DSLd_mAUiay62M1KIBrT0GZCWXldZGzFax9ZLcw14VWaQVkupm__4xw4LC4zGWGaSYJtdPDCS1o12tnepcHukw": {
+    "mid": "m_DSLd_mAUiay62M1KIBrT0GZCWXldZGzFax9ZLcw14VWaQVkupm__4xw4LC4zGWGaSYJtdPDCS1o12tnepcHukw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:13:11.333Z",
+    "createdAt": "2024-10-30T15:14:21.491Z",
+    "updatedAt": "2024-10-30T15:14:21.491Z"
+  },
+  "m_O0ZxSsBOMxAXinGot3vgp2ZCWXldZGzFax9ZLcw14VXDUryI-Mj1a4f_P7_c1tdIYitZKkjAEFax9T3PxZWARw": {
+    "mid": "m_O0ZxSsBOMxAXinGot3vgp2ZCWXldZGzFax9ZLcw14VXDUryI-Mj1a4f_P7_c1tdIYitZKkjAEFax9T3PxZWARw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/eval out(\"hello\");",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:27:37.300Z",
+    "createdAt": "2024-10-30T15:28:47.590Z",
+    "updatedAt": "2024-10-30T15:28:47.590Z"
+  },
+  "m_JXSXprrjdSLdbQJ5CPe-2mZCWXldZGzFax9ZLcw14VWuU8Uq_71SqdbE9mNAUqADB353S3vjRwUDV8hAaYuoZg": {
+    "mid": "m_JXSXprrjdSLdbQJ5CPe-2mZCWXldZGzFax9ZLcw14VWuU8Uq_71SqdbE9mNAUqADB353S3vjRwUDV8hAaYuoZg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/eval out(\"helo\");",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:28:57.343Z",
+    "createdAt": "2024-10-30T15:30:07.585Z",
+    "updatedAt": "2024-10-30T15:30:07.585Z"
+  },
+  "m_Br6xskjkhaCvs-_tCnhp7GZCWXldZGzFax9ZLcw14VW4nEzeRBsUGOVgiTdb-UmDG-7HVUaI2GtVYBfCXS5dNw": {
+    "mid": "m_Br6xskjkhaCvs-_tCnhp7GZCWXldZGzFax9ZLcw14VW4nEzeRBsUGOVgiTdb-UmDG-7HVUaI2GtVYBfCXS5dNw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/eval out(event);",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:29:12.601Z",
+    "createdAt": "2024-10-30T15:30:22.767Z",
+    "updatedAt": "2024-10-30T15:30:22.767Z"
+  },
+  "m_etTweNMpi86dxOiFKJW2XWZCWXldZGzFax9ZLcw14VXUDir3LHw5gLic6rVm6TmhgG-EM7iC2bYS7nYPcYN-Fg": {
+    "mid": "m_etTweNMpi86dxOiFKJW2XWZCWXldZGzFax9ZLcw14VXUDir3LHw5gLic6rVm6TmhgG-EM7iC2bYS7nYPcYN-Fg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:29:29.066Z",
+    "createdAt": "2024-10-30T15:33:43.256Z",
+    "updatedAt": "2024-10-30T15:33:43.256Z"
+  },
+  "m_20Uk4qZSh1w6mV_VAGb81WZCWXldZGzFax9ZLcw14VV5V9hvTn358YfPmuwVDb5UCMJdrn4GKGPwc8toD89Eig": {
+    "mid": "m_20Uk4qZSh1w6mV_VAGb81WZCWXldZGzFax9ZLcw14VV5V9hvTn358YfPmuwVDb5UCMJdrn4GKGPwc8toD89Eig",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:30:21.318Z",
+    "createdAt": "2024-10-30T15:35:15.178Z",
+    "updatedAt": "2024-10-30T15:35:15.178Z"
+  },
+  "m_TzLWmYhW2hSCDs1OhKg752ZCWXldZGzFax9ZLcw14VUvzTe-4v7TSKiJnfDUZBDPq7MxO5L6hSxQIznpMTZk4g": {
+    "mid": "m_TzLWmYhW2hSCDs1OhKg752ZCWXldZGzFax9ZLcw14VUvzTe-4v7TSKiJnfDUZBDPq7MxO5L6hSxQIznpMTZk4g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:30:39.394Z",
+    "createdAt": "2024-10-30T15:35:37.679Z",
+    "updatedAt": "2024-10-30T15:35:37.679Z"
+  },
+  "m_pmb4CVNSRWv4aQQMk5HASGZCWXldZGzFax9ZLcw14VWnj0DeZNIMkHwSZD4PW--j7SP-yG8ko4uqOzDulN6Ezw": {
+    "mid": "m_pmb4CVNSRWv4aQQMk5HASGZCWXldZGzFax9ZLcw14VWnj0DeZNIMkHwSZD4PW--j7SP-yG8ko4uqOzDulN6Ezw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:32:18.997Z",
+    "createdAt": "2024-10-30T15:36:10.046Z",
+    "updatedAt": "2024-10-30T15:36:10.046Z"
+  },
+  "m__R8WCr79o5yqmxIG6x4oqWZCWXldZGzFax9ZLcw14VVHibHOMa0u3frv-urnyHdnonMtNdyOFcUprAJZnJ4TcQ": {
+    "mid": "m__R8WCr79o5yqmxIG6x4oqWZCWXldZGzFax9ZLcw14VVHibHOMa0u3frv-urnyHdnonMtNdyOFcUprAJZnJ4TcQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:34:22.523Z",
+    "createdAt": "2024-10-30T15:37:27.552Z",
+    "updatedAt": "2024-10-30T15:37:27.552Z"
+  },
+  "m_1HIpcNsmNPWU7cqMJqZFTGZCWXldZGzFax9ZLcw14VWYE8ILFMosubgcuSYRXCL3-tVEZmpdREFqkLhDHuavFw": {
+    "mid": "m_1HIpcNsmNPWU7cqMJqZFTGZCWXldZGzFax9ZLcw14VWYE8ILFMosubgcuSYRXCL3-tVEZmpdREFqkLhDHuavFw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:34:37.608Z",
+    "createdAt": "2024-10-30T15:37:31.658Z",
+    "updatedAt": "2024-10-30T15:37:31.658Z"
+  },
+  "m_oOnmpQh0bui3X5liC71-bGZCWXldZGzFax9ZLcw14VVo4eVQSEGzCdkgPxyxdIw6KwC-0OQeYtwGzrzz-soT7g": {
+    "mid": "m_oOnmpQh0bui3X5liC71-bGZCWXldZGzFax9ZLcw14VVo4eVQSEGzCdkgPxyxdIw6KwC-0OQeYtwGzrzz-soT7g",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:40:47.628Z",
+    "createdAt": "2024-10-30T15:41:57.938Z",
+    "updatedAt": "2024-10-30T15:41:57.938Z"
+  },
+  "m_e6xc2oFxDQcIV2mmm_LPkmZCWXldZGzFax9ZLcw14VVbLLbpB642mmtT274svozKHJAqSMlXOwTUZj6bsEvs_Q": {
+    "mid": "m_e6xc2oFxDQcIV2mmm_LPkmZCWXldZGzFax9ZLcw14VVbLLbpB642mmtT274svozKHJAqSMlXOwTUZj6bsEvs_Q",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/shell ls",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:40:55.648Z",
+    "createdAt": "2024-10-30T15:42:06.269Z",
+    "updatedAt": "2024-10-30T15:42:06.269Z"
+  },
+  "m_0Ju3Nt4h8N-eEZzyG16nxGZCWXldZGzFax9ZLcw14VW9iiM182OAXiwtMagjmDHYCHcA0sb1joyStuWOn9lMug": {
+    "mid": "m_0Ju3Nt4h8N-eEZzyG16nxGZCWXldZGzFax9ZLcw14VW9iiM182OAXiwtMagjmDHYCHcA0sb1joyStuWOn9lMug",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help eval",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:45:59.566Z",
+    "createdAt": "2024-10-30T15:47:09.870Z",
+    "updatedAt": "2024-10-30T15:47:09.870Z"
+  },
+  "m_AUD3B96tqco-uiitQfABEWZCWXldZGzFax9ZLcw14VWHdusAq8o90GDFUKoltNDKwg8JnvYF_HAnppgCmqszbg": {
+    "mid": "m_AUD3B96tqco-uiitQfABEWZCWXldZGzFax9ZLcw14VWHdusAq8o90GDFUKoltNDKwg8JnvYF_HAnppgCmqszbg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:49:25.434Z",
+    "createdAt": "2024-10-30T15:50:35.656Z",
+    "updatedAt": "2024-10-30T15:50:35.656Z"
+  },
+  "m_tKCM83_xOHnpWWnOyilB1mZCWXldZGzFax9ZLcw14VXF9noEbiuZhMk7RNw2rcKa7z4svf03cDvpFftKesWpSg": {
+    "mid": "m_tKCM83_xOHnpWWnOyilB1mZCWXldZGzFax9ZLcw14VXF9noEbiuZhMk7RNw2rcKa7z4svf03cDvpFftKesWpSg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/test",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:50:25.878Z",
+    "createdAt": "2024-10-30T15:51:36.403Z",
+    "updatedAt": "2024-10-30T15:51:36.403Z"
+  },
+  "m_N38ni5C5Kxzv7i0noC8QqGZCWXldZGzFax9ZLcw14VXt3RKU_1LfGd9axqqop-fwZU6dCKu1fXSzksDxYIsPNg": {
+    "mid": "m_N38ni5C5Kxzv7i0noC8QqGZCWXldZGzFax9ZLcw14VXt3RKU_1LfGd9axqqop-fwZU6dCKu1fXSzksDxYIsPNg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:55:18.926Z",
+    "createdAt": "2024-10-30T15:56:29.362Z",
+    "updatedAt": "2024-10-30T15:56:29.362Z"
+  },
+  "m_2sfDaKxlayOSJud_HAODCmZCWXldZGzFax9ZLcw14VVc_D1Oy9o3Y7lhgFEBeVaw503UUF5YHWhAJxZX9OuUBg": {
+    "mid": "m_2sfDaKxlayOSJud_HAODCmZCWXldZGzFax9ZLcw14VVc_D1Oy9o3Y7lhgFEBeVaw503UUF5YHWhAJxZX9OuUBg",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/help",
+    "attachments": [],
+    "timestamp": "2024-10-30T15:56:27.796Z",
+    "createdAt": "2024-10-30T15:57:38.631Z",
+    "updatedAt": "2024-10-30T15:57:38.631Z"
+  },
+  "m_iS-tf9ZnwIG320QDsqJuFWZCWXldZGzFax9ZLcw14VVDGFciBbDHqIAJDMIssO3iYZoVjE0EtPlcCKpOmPwYmw": {
+    "mid": "m_iS-tf9ZnwIG320QDsqJuFWZCWXldZGzFax9ZLcw14VVDGFciBbDHqIAJDMIssO3iYZoVjE0EtPlcCKpOmPwYmw",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/id",
+    "attachments": [],
+    "timestamp": "2024-10-30T16:05:32.085Z",
+    "createdAt": "2024-10-30T16:06:42.648Z",
+    "updatedAt": "2024-10-30T16:06:42.648Z"
+  },
+  "m_G8PLHYF8tMb37b-HyF0camZCWXldZGzFax9ZLcw14VVnuM1mSfIDZMNzWtBSoDcBSXJV5hAvt_rJy05-GCfWnQ": {
+    "mid": "m_G8PLHYF8tMb37b-HyF0camZCWXldZGzFax9ZLcw14VVnuM1mSfIDZMNzWtBSoDcBSXJV5hAvt_rJy05-GCfWnQ",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini send a peragrap of 3000 character",
+    "attachments": [],
+    "timestamp": "2024-10-30T16:05:51.637Z",
+    "createdAt": "2024-10-30T16:07:01.504Z",
+    "updatedAt": "2024-10-30T16:07:01.504Z"
+  },
+  "m_MeEOB1TgXUgGj7bLMMxlzGZCWXldZGzFax9ZLcw14VUj3FdXGbQmfmz8hjRob5IIVOtnLjw3fFnBQdabiNsb_A": {
+    "mid": "m_MeEOB1TgXUgGj7bLMMxlzGZCWXldZGzFax9ZLcw14VUj3FdXGbQmfmz8hjRob5IIVOtnLjw3fFnBQdabiNsb_A",
+    "senderId": "7500033263375905",
+    "recipientId": "270004026188135",
+    "text": "/gemini writea peragrap of 3000 letter length",
+    "attachments": [],
+    "timestamp": "2024-10-30T16:06:35.626Z",
+    "createdAt": "2024-10-30T16:10:08.726Z",
+    "updatedAt": "2024-10-30T16:10:08.726Z"
+  }
+}

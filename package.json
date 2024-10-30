@@ -1,0 +1,23 @@
+{
+  "name": "facebook-graph-bot",
+  "version": "1.0.0",
+  "description": "simple facebook grap api bot for facebook page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tas33n",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "chalk": "^4.1.2",
+    "express": "^4.21.1",
+    "gradient-string": "^2.0.2",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.7.3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "facebook-graph-api-messenger",
+    "version": "1.0.0",
+    "description": "A comprehensive Facebook Graph API module with Messenger Platform support",
+    "main": "src/index.js",
+    "types": "src/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "facebook",
+        "graph-api",
+        "messenger-platform",
+        "chatbot"
+    ],
+    "author": "tas33n",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.21.4",
+        "body-parser": "^1.20.3",
+        "express": "^4.21.1"
+    },
+    "devDependencies": {
+        "@types/node": "^14.14.31"
+    }
+}
