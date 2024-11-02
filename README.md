@@ -5,11 +5,12 @@
 
 A simple user-friendly Messenger (Business Page) bot based on [fb-graph-api](https://github.com/tas33n/fb-graph-api).
 
-⚠️ **Note: ***Chika Bot*** is a non-open source project, and this repository is only used to manage requirements and user feedback.**
+⚠️ **Note: \***Chika Bot**\* is a non-open source project, and this repository is only used to manage requirements and user feedback.**
 
 🚀 **[Try the Chika Bot Here!](https://www.facebook.com/profile.php?id=61557151286096)**
 
 ## Table of Contents
+
 - [Table of Contents](#table-of-contents)
 - [Key Features](#key-features)
 - [Setup](#setup)
@@ -19,24 +20,24 @@ A simple user-friendly Messenger (Business Page) bot based on [fb-graph-api](htt
 - [License](#license)
 
 ## Key Features
-* Easy-to-use admin panel for managing bot settings
-* Customizable commands tailored to your page's needs
-* Seamless integration with multiple plugins to extend functionality
-* Responsive and fast messaging support for automated responses
-* User feedback handling to improve bot interactions
-* Simple setup using fb-graph-api for robust performance
 
+- Easy-to-use admin panel for managing bot settings
+- Customizable commands tailored to your page's needs
+- Seamless integration with multiple plugins to extend functionality
+- Responsive and fast messaging support for automated responses
+- User feedback handling to improve bot interactions
+- Simple setup using fb-graph-api for robust performance
 
 ## Setup
+
 You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 
 1. Obtain **facebook page access token** from [developers.facebook.com](https://developers.facebook.com).
-Follow this [Tutorial](/TUTORIAL.md) to fully understand the setup.
+   Follow this [Tutorial](/TUTORIAL.md) to fully understand the setup.
 2. Clone this repository or [download zip](https://github.com/tas33n/Chika-FB-Page-Bot/archive/main.zip).
 3. Install dependencies via `npm install`.
 4. Copy `example.config.json` to `config.json` and edit it.
 5. Start the bot via `npm start`.
-
 
 Here’s the README format for your commands, organized by category with roles and descriptions:
 
@@ -45,27 +46,42 @@ Here’s the README format for your commands, organized by category with roles a
 ## Commands
 
 ### Admin
-Command                  | Role   | Available at | Description
------------------------- | ------ | ------------ | -------------------------------
-`/shell <code>`          | Admin  | In-Bot       | Run shell code.
-`/eval <code>`           | Admin  | In-Bot       | Excute eval code.
-`/restart`               | Admin  | In-Bot       | Restart bot system.
+
+| Command                      | Role  | Description                                |
+| ---------------------------- | ----- | ------------------------------------------ |
+| `/shell <code>`              | Admin | Run shell code.                            |
+| `/eval <code>`               | Admin | Excute eval code.                          |
+| `/restart`                   | Admin | Restart bot system.                        |
+| `/ban <user id> \| <reason>` | Admin | Ban, unban, and check banned user details. |
+| `/calluser <msg>`            | Admin | Send msg to user.                          |
 
 ### AI
-Command                  | Role   | Available at | Description
------------------------- | ------ | ------------ | -------------------------------
-`/gemini <text>` \| `<reply to image>` | Everyone | In-Bot       | Interact with Gemini AI.
-`/gpt <text>`            | Everyone | In-Bot       | Interact with GPT-4o.
+
+| Command                                | Role     | Description                 |
+| -------------------------------------- | -------- | --------------------------- |
+| `/gemini <text>` \| `<reply to image>` | Everyone | Interact with Gemini AI.    |
+| `/gpt <text>`                          | Everyone | Interact with GPT-4o.       |
+| `/imagine <text>`                      | Everyone | Image Generation (FLUX Ai). |
+
+### Anime & Manga
+
+| Command              | Role     | Description          |
+| -------------------- | -------- | -------------------- |
+| `/anime <name>`      | Everyone | Anime info.          |
+| `/manga <name>`      | Everyone | Manga info.          |
+| `/character  <name>` | Everyone | Anime character info |
 
 ### General
-Command                  | Role   | Available at | Description
------------------------- | ------ | ------------ | -------------------------------
-`/help`                  | Everyone | In-Bot       | Displays command list.
-`/id`                    | Everyone | In-Bot       | Get your ID.
-`/test`                  | Everyone | In-Bot       | Test command.
-`/welcome`               | Everyone | In-Bot       | Welcome traveler.
 
---- 
+| Command            | Role     | Description                   |
+| ------------------ | -------- | ----------------------------- |
+| `/help`            | Everyone | Displays command list.        |
+| `/calladmin <msg>` | Everyone | Send a message to bot admins. |
+| `/id`              | Everyone | Get your ID.                  |
+| `/test`            | Everyone | Test command.                 |
+| `/welcome`         | Everyone | Welcomes traveler.            |
+
+---
 
 more commands are under development...
 
@@ -78,7 +94,6 @@ See the existing command to learn.
 ## Support
 
 If you need help with using the Bot or setting it up, join our [Support Chat](https://t.me/misfits_zone).
-
 
 ## License
 
