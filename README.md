@@ -47,43 +47,63 @@ Here’s the README format for your commands, organized by category with roles a
 
 ### Admin
 
-| Command                      | Role  | Description                                |
-| ---------------------------- | ----- | ------------------------------------------ |
-| `/shell <code>`              | Admin | Run shell code.                            |
-| `/eval <code>`               | Admin | Excute eval code.                          |
-| `/restart`                   | Admin | Restart bot system.                        |
-| `/ban <user id> \| <reason>` | Admin | Ban, unban, and check banned user details. |
-| `/calluser <msg>`            | Admin | Send msg to user.                          |
+| Command                                                | Role  | Description                |
+| ------------------------------------------------------ | ----- | -------------------------- |
+| `/shell <code>`                                        | Admin | Run shell code.            |
+| `/eval <code>`                                         | Admin | Execute eval code.         |
+| `/restart`                                             | Admin | Restart bot system.        |
+| `/ban <userID> [reason]`                               | Admin | Ban a user.                |
+| `/unban <userID>`                                      | Admin | Unban a user.              |
+| `/check <userID>`                                      | Admin | Check banned user details. |
+| `/calluser <user_id> <msg>`                            | Admin | Send message to user.      |
+| `/globaldata <get\|set\|update\|delete> <key> [value]` | Admin | Manage global data.        |
 
 ### AI
 
-| Command                                | Role     | Description                 |
-| -------------------------------------- | -------- | --------------------------- |
-| `/gemini <text>` \| `<reply to image>` | Everyone | Interact with Gemini AI.    |
-| `/gpt <text>`                          | Everyone | Interact with GPT-4o.       |
-| `/imagine <text>`                      | Everyone | Image Generation (FLUX Ai). |
+| Command                                                      | Role     | Description                    |
+| ------------------------------------------------------------ | -------- | ------------------------------ |
+| `/gemini <text> or <reply to image>`                         | Everyone | Interact with Gemini AI.       |
+| `/gpt <text>`                                                | Everyone | Interact with GPT-4o.          |
+| `/aiart [style_id                    \| prompt   \| gender]` | Everyone | Generate AI art from an image. |
+| `/imagine <text>`                                            | Everyone | Image Generation (FLUX Ai).    |
+| `/upscale [2x \| 4x]`                                        | Everyone | Image upscale (default 2x).    |
 
-### Anime & Manga
+### Anime
 
-| Command              | Role     | Description          |
-| -------------------- | -------- | -------------------- |
-| `/anime <name>`      | Everyone | Anime info.          |
-| `/manga <name>`      | Everyone | Manga info.          |
-| `/character  <name>` | Everyone | Anime character info |
+| Command                                          | Role     | Description               |
+| ------------------------------------------------ | -------- | ------------------------- |
+| `/anime <anime-name>`                            | Everyone | Get anime info.           |
+| `/character <character-name or character-index>` | Everyone | Get anime character info. |
+| `/manga <manga-name>`                            | Everyone | Get manga info.           |
 
 ### General
 
-| Command            | Role     | Description                   |
-| ------------------ | -------- | ----------------------------- |
-| `/help`            | Everyone | Displays command list.        |
-| `/calladmin <msg>` | Everyone | Send a message to bot admins. |
-| `/id`              | Everyone | Get your ID.                  |
-| `/test`            | Everyone | Test command.                 |
-| `/welcome`         | Everyone | Welcomes traveler.            |
+| Command                | Role     | Description                   |
+| ---------------------- | -------- | ----------------------------- |
+| `/help`                | Everyone | Displays command list.        |
+| `/id`                  | Everyone | Get your ID.                  |
+| `/test`                | Everyone | Test command.                 |
+| `/welcome`             | Everyone | Welcome traveler.             |
+| `/callAdmin <message>` | Everyone | Send a message to bot admins. |
+
+### Media
+
+| Command             | Role     | Description                                     |
+| ------------------- | -------- | ----------------------------------------------- |
+| `/ytdl <video URL>` | Everyone | Video Downloader (supports multiple platforms). |
+
+### Utility
+
+| Command                                | Role     | Description                |
+| -------------------------------------- | -------- | -------------------------- |
+| `/img`                                 | Everyone | Image helper for postback. |
+| `/ocr <reply to image>` \| `<img url>` | Everyone | (OCR) Image to text.       |
 
 ---
 
-more commands are under development...
+**Last Updated:** November 11, 2024
+
+_more commands are under development..._
 
 ## Plugins
 
