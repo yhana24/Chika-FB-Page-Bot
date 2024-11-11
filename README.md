@@ -47,16 +47,14 @@ Here’s the README format for your commands, organized by category with roles a
 
 ### Admin
 
-| Command                                                | Role  | Description                |
-| ------------------------------------------------------ | ----- | -------------------------- |
-| `/shell <code>`                                        | Admin | Run shell code.            |
-| `/eval <code>`                                         | Admin | Execute eval code.         |
-| `/restart`                                             | Admin | Restart bot system.        |
-| `/ban <userID> [reason]`                               | Admin | Ban a user.                |
-| `/unban <userID>`                                      | Admin | Unban a user.              |
-| `/check <userID>`                                      | Admin | Check banned user details. |
-| `/calluser <user_id> <msg>`                            | Admin | Send message to user.      |
-| `/globaldata <get\|set\|update\|delete> <key> [value]` | Admin | Manage global data.        |
+| Command                                                | Role  | Description           |
+| ------------------------------------------------------ | ----- | --------------------- |
+| `/shell <code>`                                        | Admin | Run shell code.       |
+| `/eval <code>`                                         | Admin | Execute eval code.    |
+| `/restart`                                             | Admin | Restart bot system.   |
+| `/ban [unban\|check\|total] <userID> [reason] `        | Admin | Ban/unban user.       |
+| `/calluser <user_id> <msg>`                            | Admin | Send message to user. |
+| `/globaldata <get\|set\|update\|delete> <key> [value]` | Admin | Manage global data.   |
 
 ### AI
 
