@@ -15,6 +15,12 @@ A simple user-friendly Messenger (Business Page) bot based on [fb-graph-api](htt
 - [Key Features](#key-features)
 - [Setup](#setup)
 - [Commands](#commands)
+  - [Admin](#admin)
+  - [AI](#ai)
+  - [Anime](#anime)
+  - [General](#general)
+  - [Media](#media)
+  - [Utility](#utility)
 - [Plugins](#plugins)
 - [Support](#support)
 - [License](#license)
@@ -38,8 +44,6 @@ You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 3. Install dependencies via `npm install`.
 4. Copy `example.config.json` to `config.json` and edit it.
 5. Start the bot via `npm start`.
-
-Here’s the README format for your commands, organized by category with roles and descriptions:
 
 ---
 
@@ -86,20 +90,21 @@ Here’s the README format for your commands, organized by category with roles a
 
 ### Media
 
-| Command             | Role     | Description                                     |
-| ------------------- | -------- | ----------------------------------------------- |
-| `/ytdl <video URL>` | Everyone | Video Downloader (supports multiple platforms). |
+| Command               | Role     | Description                                     |
+| --------------------- | -------- | ----------------------------------------------- |
+| `/ytdl <video URL>`   | Everyone | Video Downloader (supports multiple platforms). |
+| `/spdl <spotify URL>` | Everyone | Spotify Downloader                              |
 
 ### Utility
 
-| Command                                | Role     | Description                |
-| -------------------------------------- | -------- | -------------------------- |
-| `/img`                                 | Everyone | Image helper for postback. |
-| `/ocr <reply to image>` \| `<img url>` | Everyone | (OCR) Image to text.       |
+| Command                                | Role     | Description                    |
+| -------------------------------------- | -------- | ------------------------------ |
+| `/ocr <reply to image>` \| `<img url>` | Everyone | (OCR) Image to text.           |
+| `/pdf <gdrive pdf url>`                | Everyone | Download protected gdrive pdf. |
 
 ---
 
-**Last Updated:** November 11, 2024
+**Last Updated:** November 12, 2024 5:02 PM
 
 _more commands are under development..._
 
