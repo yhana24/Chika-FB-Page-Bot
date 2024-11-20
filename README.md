@@ -62,13 +62,15 @@ You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 
 ### AI
 
-| Command                                                      | Role     | Description                    |
-| ------------------------------------------------------------ | -------- | ------------------------------ |
-| `/gemini <text> or <reply to image>`                         | Everyone | Interact with Gemini AI.       |
-| `/gpt <text>`                                                | Everyone | Interact with GPT-4o.          |
-| `/aiart [style_id                    \| prompt   \| gender]` | Everyone | Generate AI art from an image. |
-| `/imagine <text>`                                            | Everyone | Image Generation (FLUX Ai).    |
-| `/upscale [2x \| 4x]`                                        | Everyone | Image upscale (default 2x).    |
+| Command                                                        | Role     | Description                       |
+| -------------------------------------------------------------- | -------- | --------------------------------- |
+| `/gemini <text> or <reply to image>`                           | Everyone | Interact with Gemini AI.          |
+| `/gpt <text>`                                                  | Everyone | Interact with GPT-4o.             |
+| `/aiart [style_id \| prompt \| gender]`                        | Everyone | Generate AI art from an image.    |
+| `/imagine <text>`                                              | Everyone | Image Generation (FLUX Ai).       |
+| `/upscale [2x \| 4x]`                                          | Everyone | Image upscale (default 2x).       |
+| `/art` ![New](https://img.shields.io/badge/-New-brightgreen)   | Everyone | Convert photos into anime.        |
+| `/gtart` ![New](https://img.shields.io/badge/-New-brightgreen) | Everyone | Generate GTA-5 art from an image. |
 
 ### Anime
 
@@ -97,10 +99,10 @@ You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 
 ### Utility
 
-| Command                                | Role     | Description                    |
-| -------------------------------------- | -------- | ------------------------------ |
-| `/ocr <reply to image>` \| `<img url>` | Everyone | (OCR) Image to text.           |
-| `/pdf <gdrive pdf url>`                | Everyone | Download protected gdrive pdf. |
+| Command                                                      | Role     | Description                    |
+| ------------------------------------------------------------ | -------- | ------------------------------ |
+| `/ocr <reply to image>` \| `<img url>`                       | Everyone | (OCR) Image to text.           |
+| `/pdf <gdrive pdf url>`                                      | Everyone | Download protected gdrive pdf. |
 
 ---
 
