@@ -74,11 +74,13 @@ You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 
 ### Anime
 
-| Command                                          | Role     | Description               |
-| ------------------------------------------------ | -------- | ------------------------- |
-| `/anime <anime-name>`                            | Everyone | Get anime info.           |
-| `/character <character-name or character-index>` | Everyone | Get anime character info. |
-| `/manga <manga-name>`                            | Everyone | Get manga info.           |
+| Command                                                                       | Role     | Description                        |
+| ----------------------------------------------------------------------------- | -------- | ---------------------------------- |
+| `/anime <anime-name>`                                                         | Everyone | Get anime info.                    |
+| `/character <character-name>`                                                 | Everyone | Get anime character info.          |
+| `/manga <manga-name>`                                                         | Everyone | Get manga info.                    |
+| `/anilist <username>` ![New](https://img.shields.io/badge/-New-brightgreen)   | Everyone | AniList user profile.              |
+| `/sauce <reply to img>` ![New](https://img.shields.io/badge/-New-brightgreen) | Everyone | Trace scene from anime screenshot. |
 
 ### General
 
@@ -99,14 +101,15 @@ You need [Node.js](https://nodejs.org/) (>= 18) to run this bot.
 
 ### Utility
 
-| Command                                                      | Role     | Description                    |
-| ------------------------------------------------------------ | -------- | ------------------------------ |
-| `/ocr <reply to image>` \| `<img url>`                       | Everyone | (OCR) Image to text.           |
-| `/pdf <gdrive pdf url>`                                      | Everyone | Download protected gdrive pdf. |
+| Command                                                                   | Role     | Description                                |
+| ------------------------------------------------------------------------- | -------- | ------------------------------------------ |
+| `/ocr <reply to image>` \| `<img url>`                                    | Everyone | (OCR) Image to text.                       |
+| `/pdf <gdrive pdf url>`                                                   | Everyone | Download protected gdrive pdf.             |
+| `/profile <fb link>`![New](https://img.shields.io/badge/-New-brightgreen) | Everyone | Get Profile Picture of given profile link. |
 
 ---
 
-**Last Updated:** November 12, 2024 5:02 PM
+**Last Updated:** November 21, 2024 12:40 PM
 
 _more commands are under development..._
 
